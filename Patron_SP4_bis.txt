@@ -10,8 +10,6 @@ VSM Data File: C:\IDEASVSM\LS_QC\Patron_SPM4c.dat
 ***DATA***
 
 Field(G)	 Moment(emu)	
- 17511.9 	 0.188194 	
- 17514.7 	 0.187743 	
  17000.2 	 0.18722 	
  16000 	 0.187647 	
  14999.8 	 0.187221 	
